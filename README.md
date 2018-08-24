@@ -1,4 +1,6 @@
 # hello-world
 test
-my first time of using Github
-hope all things move well
+for i in range(6):
+    print(i)
+    
+    
